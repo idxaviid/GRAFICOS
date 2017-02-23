@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshaderGouraud.glsl</file>
+        <file>resources/vshaderGouraud.glsl</file>
+        <file>resources/fshaderPhong.glsl</file>
+        <file>resources/fshaderToon.glsl</file>
+        <file>resources/vshaderPhong.glsl</file>
+        <file>resources/vshaderToon.glsl</file>
+        <file>resources/textures/earth2.png</file>
+        <file>resources/textures/earth1.png</file>
+        <file>resources/textures/earth3.png</file>
+        <file>resources/fshaderPhongEnviromental.glsl</file>
+    </qresource>
+</RCC>
